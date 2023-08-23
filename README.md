@@ -52,5 +52,3 @@ Feel free to reach out to me if you have any questions or would like to collabor
 Thank you for visiting my portfolio repository!
 
 ---
-
-Remember to replace placeholders like `your-username` and `your-portfolio-repo` with your actual GitHub username and repository name. Feel free to add or modify content to better reflect your personal style and preferences.
